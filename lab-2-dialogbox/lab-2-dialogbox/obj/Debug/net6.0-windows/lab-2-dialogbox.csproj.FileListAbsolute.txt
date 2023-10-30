@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\bin\Debug\net6.0-windows\lab-2-dialogbox.exe
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\bin\Debug\net6.0-windows\lab-2-dialogbox.deps.json
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\bin\Debug\net6.0-windows\lab-2-dialogbox.runtimeconfig.json
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\bin\Debug\net6.0-windows\lab-2-dialogbox.dll
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\bin\Debug\net6.0-windows\lab-2-dialogbox.pdb
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab_2_dialogbox.Form1.resources
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.AssemblyInfo.cs
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.dll
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\refint\lab-2-dialogbox.dll
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.pdb
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\lab-2-dialogbox.genruntimeconfig.cache
+C:\Users\MSI\source\repos\lab-2-dialogbox\lab-2-dialogbox\obj\Debug\net6.0-windows\ref\lab-2-dialogbox.dll
